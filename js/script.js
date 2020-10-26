@@ -1,5 +1,6 @@
-		
-
+		setTimeout(function() {
+			location.href = 'rocket.html'
+		}, 5000);
 // this function does cool stuff.
 		var doCoolStuff = function () {
 			var currentClassName = document.getElementById('cool').className;
