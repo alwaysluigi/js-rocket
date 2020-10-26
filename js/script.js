@@ -1,5 +1,5 @@
 		setTimeout(function() {
-			location.href = 'rocket.html'
+			location.href = 'http://alwaysluigi.github.io/js-rocket/rocket.html'
 		}, 5000);
 // this function does cool stuff.
 		var doCoolStuff = function () {
