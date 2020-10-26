@@ -24,7 +24,7 @@ var changeState = function (state) {
 					randomNumber)
 
 				// success
-				if (randomNumber > 5) {
+				if (randomNumber > 2) {
 					changeState(4);
 					//do something
 
