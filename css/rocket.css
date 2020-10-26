@@ -1,6 +1,6 @@
 .left {
 position: fixed;
-background-color: #009DD8;
+background-color: #969696;
 width: 50%;
 height: 100%;
 top: 0;
@@ -12,7 +12,7 @@ text-align: center;
 
 .right{
 position: fixed;
-background-color: #EA8700;
+background-image: linear-gradient(#FF8F00 ,#D8A100);
 width: 50%;
 height: 100%;
 top: 0;
