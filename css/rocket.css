@@ -82,12 +82,32 @@ body.body-state5 .state5{display: block;}
 }
 .excited {
 	position: absolute;
-	top: 100px;
-	left: 100px;
-	background: url('../rocketgif/excited.png') no-repeat center center;
-	width: 640px
+	top: 500px;
+	left: 50%;
+	background: url('../rocketgif/excited.png') no-repeat 0 0;
+	width: 640px;
 	height: 480px;
+	margin-left: -350px;
+	display: none;
 }
+.excited.show {
+	display: block;
+
+}
+.wee {
+	position: absolute;
+	top: 500px;
+	right: 50%;
+	background: url('../rocketgif/wee.png') no-repeat 0 0;
+	width: 640px;
+	height: 480px;
+	margin-right: -280px;
+	display: none;
+}
+.wee.show {
+	display: block;
+}
+
 a {
 
 }
