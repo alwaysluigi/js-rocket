@@ -7,6 +7,7 @@ top: 0;
 left: 0;
 text-align: center;
 padding-top: 400px;
+	font-family: 'Turret Road', sans-serif;
 
 }
 
@@ -119,6 +120,7 @@ a.button {
 	padding: 25px;
 	text-transform: uppercase;
 	border-radius: 5px;
+	text-decoration: none;
 
 }
 
@@ -129,5 +131,9 @@ a.button:hover {
 	padding: 25px;
 	text-transform: uppercase;
 	border-radius: 5px;
+	text-decoration: none;
+
+}
+h1 {
 
 }
