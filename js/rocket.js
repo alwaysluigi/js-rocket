@@ -32,7 +32,7 @@ var changeState = function (state) {
 
 		changeState(3);
 		};
-		}, 400);	
+		}, 500);	
 	} else if (state == 3){
 		var success = setTimeout(function ()
 		{
