@@ -14,7 +14,7 @@ var changeState = function (state) {
 
 			changeState(3);
 		};
-		}, 1000);	
+		}, 100);	
 	} else if (state == 3){
 		var success = setTimeout(function ()
 		{
@@ -24,7 +24,7 @@ var changeState = function (state) {
 					randomNumber)
 
 				// success
-				if (randomNumber > 2) {
+				if (randomNumber > 5) {
 					changeState(4);
 					//do something
 
