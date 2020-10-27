@@ -1,6 +1,6 @@
 		setTimeout(function() {
 			location.href = 'http://alwaysluigi.github.io/js-rocket/rocket.html'
-		}, 5000);
+		}, 2500);
 // this function does cool stuff.
 		var doCoolStuff = function () {
 			var currentClassName = document.getElementById('cool').className;
